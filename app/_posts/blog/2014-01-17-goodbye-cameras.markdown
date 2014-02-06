@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Goodbye cameras"
+categories: blog
+link: http://www.newyorker.com/online/blogs/elements/2013/12/goodbye-cameras.html
+---
+
+Pretty similar to my own experience with digital cameras. My first SLR was a [Nikon D70](http://en.wikipedia.org/wiki/Nikon_D70) back in 2005. A few years later I upgraded to a [D90](http://en.wikipedia.org/wiki/Nikon_D90), but soon found it (as I had with the D70) too big to carry around. I eventually sold all my Nikon gear, and opted in 2010 for a [Panasonic Lumix GF1](http://www.dpreview.com/reviews/PanasonicGF1), an excellent micro-four-thirds system camera with a fixed 20mm lens. I enjoyed the compact size, and this camera accomanied me on my trip around the world in 2011. However, I also brought an iPhone 4, which I used just as much. Last year, I bought what I believe to be my last non networked camera, the brilliant full format camera [Sony RX1](http://www.dpreview.com/reviews/sony-cybershot-dsc-rx1). The quality of the images were absolutely stunning, but as with the GF1, I didn't bring it with me enough to justify the purchase.
+
+Today, I have sold all of my photo equipment and only shoot with the iPhone 5S. The ability to instantly edit and share my photos from whereever I am wins hands down over the old process of shooting, bringing the camera back to the computer, unload the files, edit and upload. Phones still have a way to go in terms of pure photo quality, but add on lenses like [Photojojo](http://photojojo.com/store/awesomeness/cell-phone-lenses/), [Olloclip](http://www.olloclip.com/) and [Moment](http://momentlens.co/) are trying to bridge the gap. Moreover, Adobe are in the works of making [Lightroom for iPad](http://9to5mac.com/2014/01/17/lightroom-for-ipad-briefly-appears-on-adobes-website-coming-soon-with-99year-cloud-subscription/), which shows just how important mobile cameras have become.

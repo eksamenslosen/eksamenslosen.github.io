@@ -1,0 +1,37 @@
+---
+layout: default
+title: Andreas Schjønhaug
+---
+
+
+<div>
+
+    {% for post in site.posts %}
+    
+    
+      <!--<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>-->
+      
+      
+      <article>
+	<header><h1><!--<time class="post-date">{{ post.date | date_to_string }}</time>-->
+		{% if post.link %}<a href="{{ post.link }}">{% endif %}{{ post.title }}{% if post.link %}</a>{% endif %} <span class="permalink"><a href="{{ post.url }}">∞</a></span></h1>
+		
+		
+		
+	</header>
+
+	<div class="post">
+		{{ post.content }}
+		</div>
+</article>
+
+      
+      
+      
+    {% endfor %}
+
+
+
+
+
+</div>
