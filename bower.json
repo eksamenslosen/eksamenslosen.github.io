@@ -1,8 +1,0 @@
-{
-  "name": "schjonhauggithubio",
-  "version": "0.0.0",
-  "dependencies": {},
-  "devDependencies": {
-    "normalize-css": "~3.0.0"
-  }
-}
